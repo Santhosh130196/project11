@@ -15,6 +15,7 @@ if (arm==tem) {
 } else {
 	System.out.println("is not armstrong");
 	System.out.println("sandyupdated");
+	System.out.println("luffy");
 }
 }
 }
